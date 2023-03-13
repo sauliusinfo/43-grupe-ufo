@@ -1,0 +1,16 @@
+{
+  "name": "43-grupe-ufo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=4305",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sauliusinfo (https://github.com/sauliusinfo)",
+  "license": "MIT",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
